@@ -18,7 +18,7 @@ The system uses a webcam to capture hand landmarks through MediaPipe. Based on t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/hand-gesture-mouse.git
+git clone https://github.com/lord230/hand_v_3.py.git
 cd hand-gesture-mouse
 
 ```
